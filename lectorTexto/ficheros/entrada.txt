@@ -1,0 +1,4 @@
+Este es el fichero "Entrada.txt".
+Esta no
+Esta linea se filtrara
+Esta linea tambien se filtrara

@@ -32,7 +32,7 @@ public class lectorTexto {
     public static void main(String[] args) throws FileNotFoundException {
 
         // Archivo de entrada
-        File archivo = new File("C:\\Users\\pabli\\IdeaProjects\\lectorTexto\\ficheros\\entrada.txt");
+        File archivo = new File("./ficheros/entrada.txt");
 
         // Lectores para leer el archivo línea por línea
         FileReader fr = new FileReader(archivo);

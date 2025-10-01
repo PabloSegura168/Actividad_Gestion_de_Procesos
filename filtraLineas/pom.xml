@@ -15,7 +15,7 @@
   </properties>
 
   <build>
-    <finalName>filtraPalabras</finalName>
+    <finalName>filtraLineas</finalName>
     <plugins>
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
